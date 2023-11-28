@@ -8,7 +8,7 @@
 «Пока все ещё тут» — мы создаём уют!
 
 
-## Часть I: [E-commerce — Выявление профилей потребления]([https://github.com/MarinaFilobok/Portfolio/blob/20868213082e71fd010f1e5d8defb7751af39f9b/final%20project/e-commers.ipynb])
+## Часть I: [E-commerce — Выявление профилей потребления](https://github.com/MarinaFilobok/Portfolio/blob/3c27dca84ef55d7ea48b11494eb3ef1d00dfe92b/final%20project/1_e-commers.ipynb)
 
 ### Цель исследования
 Цель проекта - сегментировать покупателей по профилю потребления для создания персонализированных предложений.
@@ -30,7 +30,7 @@
 *pandas, numpy, matplotlib, seaborn, scipy*
 
 
-## Часть II: [A/B-тестирование](https://github.com/MarinaFilobok/Portfolio/blob/20868213082e71fd010f1e5d8defb7751af39f9b/final%20project/A_B_test.ipynb)
+## Часть II: [A/B-тестирование](https://github.com/MarinaFilobok/Portfolio/blob/20868213082e71fd010f1e5d8defb7751af39f9b/final%20project/2_A_B_test.ipynb)
 
 ### Цель исследования
 Проведение оценки результатов A/B-теста после введения улучшенной программы рекомендаций для региона EU.
@@ -55,7 +55,7 @@
 
 *pandas, numpy, matplotlib, seaborn, math, datetime, scipy*
 
-## Часть III: [SQL](https://github.com/MarinaFilobok/Portfolio/blob/20868213082e71fd010f1e5d8defb7751af39f9b/final%20project/SQL_final.ipynb)
+## Часть III: [SQL](https://github.com/MarinaFilobok/Portfolio/blob/20868213082e71fd010f1e5d8defb7751af39f9b/final%20project/3_SQL_final.ipynb)
 
 ### Цель: 
 Проанализировать базу данных крупного сервиса для чтения книг по подписке.
